@@ -1,6 +1,12 @@
+This project requires the PlantVillage dataset
+__________________________________________________________________________________
+Download it from Kaggle: https://www.kaggle.com/datasets/emmarex/plantdisease
+__________________________________________________________________________________
 tensorflow==2.7.0
 numpy==1.21.0
 matplotlib==3.4.3
 scikit-learn==0.24.2
 Pillow==8.2.0
 h5py==3.1.0
+kaggle==1.5.12
+__________________________________________________________________________________
